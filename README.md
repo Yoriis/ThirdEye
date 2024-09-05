@@ -17,7 +17,7 @@ A Flutter-based IoT system integrating object recognition using an ESP-CAM and t
 
 # What You'll Find
 - Complete and commented code for the Flutter app, as well as C++ code files for both ESPs and Python CV code. 
-- Full documentation: report, presentation and demo. 
+- Full documentation 
 - UI Design Images
 - Maquette Schematics
 
