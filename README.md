@@ -1,18 +1,23 @@
-# ThirdEye
-A Flutter-based IoT system integrating object recognition using an ESP-CAM, real-time heart rate monitoring, as well as a speaker module to assist those with visual impairments in detecting distances and nearby objects.
-# finalproject
+# ***Third Eye*** 
+A Flutter-based IoT system integrating object recognition using an ESP-CAM and the YOLOV8 model, real-time heart rate monitoring, as well as a speaker module to assist those with visual impairments in detecting distances and nearby objects.
 
-A new Flutter project.
+# Key Features
 
-## Getting Started
+ - Active heart rate monitor 
+ - Ultrasonic sensor for calculating distances
+ - ESP-CAM to constantly detect and recognize objects
+ - Integrated application to keep track of data
+ - Comfortable and lightweight walking cane with intuitive sensor placement
 
-This project is a starting point for a Flutter application.
+# Technologies Used
+- Flutter framework for application development
+- Firebase/Firestore for cloud services and user details
+- MQTT Broker with HiveMQ for storing sensor readings
+- Python for Computer Vision
 
-A few resources to get you started if this is your first Flutter project:
+# What You'll Find
+- Complete and commented code for the Flutter app, as well as C++ code files for both ESPs and Python CV code. 
+- Full documentation: report, presentation and demo. 
+- UI Design Images
+- Maquette Schematics
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
